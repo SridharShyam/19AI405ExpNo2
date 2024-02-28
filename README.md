@@ -83,7 +83,7 @@ A <BR>
 
 ## Program
 ```
-<h3>
+
 from collections import defaultdict
 def dfs(g,s,vi,p):
     p.append(s)
